@@ -1,0 +1,61 @@
+﻿  minsu.c
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\minsu.c(19): warning C4013: 'gotoxy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\minsu.c(22): warning C4013: 'setcolor'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\minsu.c(24): warning C4013: 'unsetcolor'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\minsu.c(6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\minsu.c(178): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\minsu.c(212): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\minsu.c(248): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\minsu.c(285): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\minsu.c(566): warning C4101: 'key' :참조되지 않은 지역 변수입니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\minsu.c(606): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\minsu.c(659): warning C4013: 'CursorView'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  sehwa.c
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(8): warning C4013: 'percentage'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(5): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(54): warning C4013: 'gotoxy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(149): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(140): warning C4101: 'key' :참조되지 않은 지역 변수입니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(179): warning C4013: 'CursorView'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(185): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(459): note: 'kbhit' 선언을 참조하십시오.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(187): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(191): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(202): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(214): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(256): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(459): note: 'kbhit' 선언을 참조하십시오.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(258): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(261): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(272): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(284): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(312): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(324): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(327): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(330): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(333): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(383): warning C4013: 'setcolor'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(387): warning C4013: 'unsetcolor'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(411): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(449): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(467): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(459): note: 'kbhit' 선언을 참조하십시오.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(509): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(25): warning C4715: 'random': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\세화\desktop\기초프로젝트 2팀\project2\project2\sehwa.c(47): warning C4715: 'percentage': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Project2.vcxproj -> C:\Users\세화\Desktop\기초프로젝트 2팀\Project2\x64\Debug\Project2.exe
